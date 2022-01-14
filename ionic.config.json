@@ -1,0 +1,7 @@
+{
+  "name": "discounts",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
